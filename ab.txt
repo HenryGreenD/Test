@@ -1,2 +1,2 @@
-你好，杭州！
-再见，厦门！
+Hello,Hangzhou!
+Bye,Xiamen!
